@@ -117,4 +117,5 @@ nav ul li{
 .songInfo img{
     width: 42px;
     opacity: 0; /* We will make it 1 using JS when we play a song */
+    transition: opacity 0.64s ease-in;
 }
